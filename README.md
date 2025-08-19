@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year B.Tech student with a strong foundation in Python, Java, Data Structures & Algorithms (DSA), DBMS, and Applied Artificial Intelligence. Passionate about data science, I am actively exploring data handling, analysis, and machine learning.<br><br>I regularly practice competitive programming on HackerRank, CodeChef, and LeetCode to strengthen my problem-solving skills. Additionally, I am developing a website focused on financial collaboration to bring people together.<br><br>Beyond tech, I am also learning the flute, balancing my analytical mindset with creative expression.
+I am a third-year B.Tech student with a strong foundation in Python, Java, Data Structures & Algorithms (DSA), DBMS, and Applied Artificial Intelligence. Passionate about data science, I am actively exploring data handling, analysis, and machine learning.<br><br>I regularly practice competitive programming on HackerRank, CodeChef, and LeetCode to strengthen my problem-solving skills. Additionally, I am developing a website focused on financial collaboration to bring people together.<br><br>Beyond tech, I am also learning the flute, balancing my analytical mindset with creative expression.
 
 
 ## 🌐 Socials:
